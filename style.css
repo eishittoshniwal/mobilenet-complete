@@ -1,0 +1,70 @@
+body{
+     background-color: #fffffe;
+     font-family: 'Akaya Telivigala', cursive;
+}
+#header_div{
+    margin-top: 0;
+    background-color: #272343;
+    color: #ffd803;
+}
+
+#header_div img{
+    width: 100px;
+     border-radius:50% ;
+}
+
+.main_div{
+    background-color: #bae8e8;
+    border: 2px solid #272343;
+    padding: 10px;
+    margin-top: 50px;
+
+}
+
+.main_div label{
+    width: 300px;
+    box-shadow: 5px 5px 10px black;
+    border: 1px solid #272343;
+    padding: 10px;
+    font-size: 22px; ;
+}
+
+#camera,#snapshot{
+    width: 300px;
+    height: 300px;
+ border: 2px solid #272343;
+  box-shadow: 10px 10px 20px black;
+}
+
+.main_div button{
+    width: 300px;
+    box-shadow: 10px 10px 20px black;
+    border: 1px solid #272343;
+    font-size:22px;
+}
+
+#output_div{
+  margin-bottom: 50px;  
+}
+
+#output_div h4{
+    background-color: #ffd803;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow:10px 10px 20px black ;
+}
+
+#output_div img{
+    width: 70px;
+    float: left;   
+} 
+
+#footer_div{
+    position: fixed;
+    bottom: 0;
+    background-color: blanchedalmond;
+    width: 100%;
+    line-height: 2;
+    font-size: 18px;
+    color:#272343 ;
+}
